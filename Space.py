@@ -59,16 +59,3 @@ fig = px.scatter_geo(df, lat="latitude",
                     lon="longitude")
 
 fig.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
